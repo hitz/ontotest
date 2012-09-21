@@ -19,7 +19,7 @@ from fabric import colors
 from fabric.utils import puts, warn
 
 
-SITE_NAME = '{SITE_NAME}'
+SITE_NAME = 'ontotest'
 
 
 def _transfer_files(src, dst, ssh_port=None):

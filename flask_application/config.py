@@ -3,8 +3,8 @@
 # http://flask.pocoo.org/docs/config/#development-production
 
 class Config(object):
-    SECRET_KEY = '{SECRET_KEY}'
-    SITE_NAME = '{SITE_NAME}'
+    SECRET_KEY = 'ww+nka=g+ihmn#bnmslp_k0xr%wj9$oezlzm3pxcni@yos99f#'
+    SITE_NAME = 'ontotest'
     MEMCACHED_SERVERS = ['localhost:11211']
     SYS_ADMINS = ['foo@example.com']
 
